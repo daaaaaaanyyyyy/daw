@@ -1,0 +1,27 @@
+body {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding-top: 30px;
+}
+.profile-img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  border: 4px solid #dee2e6;
+}
+.btn-custom {
+  margin: 10px;
+}
+.modal-header, .modal-footer {
+  background-color: #e9ecef;
+}
+.social-icons a {
+  margin: 0 10px;
+  color: #333;
+  font-size: 24px;
+}
+.social-icons a:hover {
+  color: #007bff;
+}
